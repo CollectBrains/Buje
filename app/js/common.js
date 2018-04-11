@@ -1,5 +1,7 @@
 $(function() {
 
+	svg4everybody();
+
 	$(".slider").slick({
 		arrows: false,
 		dots: true
